@@ -1,5 +1,5 @@
 module.exports = {
-  basePath: '/next-ssr',
+  basePath: '/mdh',
   future: {
     webpack5: true,
   },
