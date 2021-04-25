@@ -1,8 +1,8 @@
 {
-  "name": "next-ssr",
+  "name": "mdh",
   "version": "1.0.0",
-  "description": "云开发 CloudBase Next SSR App",
-  "author": "liyuanfeng",
+  "description": "MDH - make developer happier",
+  "author": "lanzhi_lee",
   "private": true,
   "scripts": {
     "dev": "next dev",
