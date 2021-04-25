@@ -7,7 +7,10 @@
     "plugins": {
       "client": {
         "use": "@cloudbase/framework-plugin-next",
-        "inputs": {}
+        "inputs": {
+          "path": "/mdh",
+          "name": "mdh"
+        }
       },
       "server": {
         "use": "@cloudbase/framework-plugin-function",
